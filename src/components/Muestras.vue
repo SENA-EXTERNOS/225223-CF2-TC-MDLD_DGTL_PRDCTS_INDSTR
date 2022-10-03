@@ -2022,7 +2022,7 @@ div
   //- .arriba, .abajo, .derecha, .izquierda para controlar la animacion
   .row.mb-5
     .col-sm-6.col-xl-3.mb-4.mb-xl-0
-      .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style=)
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5

@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 2%
+    right: 50%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 41%
+    right: 20%
 
 
 @keyframes float1
@@ -17,3 +22,25 @@
 
   100%
     transform: translateY(0px)
+
+
+// Modales Info////R
+
+.infografia-editada
+  .infografica-b__item__dot:after ,,.img-infografica-b__item__dot:before
+    opacity: 1 !important
+  .img-infografica-b__item
+    opacity: 1 !important
+    transform: scale(2)
+  .img-infografica-b__item:hover .img-infografica-b__item__tooltip
+    display: none
+  .img-infografica-b__modal
+    background-color: #b3c2c9
+
+    h1,h2,h3,h4,h5,h6, p ,div
+      color: $color-sistema-texto !important
+  .img-infografica-b__modal__btn-cerrar
+    background-color: $color-acento-botones
+    margin: 1.5rem
+    padding: 0.5rem
+    border-radius: 50%

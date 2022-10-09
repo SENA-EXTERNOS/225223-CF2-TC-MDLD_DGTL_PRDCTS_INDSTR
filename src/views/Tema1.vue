@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 1
-      h1 #[b Software] Corel Draw
+      h1 #[em Software] Corel Draw
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.svg')})`}"
@@ -33,7 +33,7 @@
           img(src='@/assets/curso/temas/tema1/4.svg' alt='AvatarTop')
           .tarjeta(style='background-color: #e8e8e8')
             .p-4.mt-3.text-center
-              p Este software es muy versátil, es usado normalmente para el diseño de logos, diagramaciones de revistas, volantes, folletos, tarjetas, etc. 
+              p Este #[em software] es muy versátil, es usado normalmente para el diseño de logos, diagramaciones de revistas, volantes, folletos, tarjetas, etc. 
     Separador
     #t_1_2.titulo-segundo.color-acento-botones(data-aos='fade-right')
       h2 1.2 Herramientas y uso 

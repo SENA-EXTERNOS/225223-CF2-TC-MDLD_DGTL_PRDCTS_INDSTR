@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Photoshop es un software de creación de imágenes, diseño gráfico y edición de fotografías desarrollado por la empresa Adobe que proporciona múltiples funciones de edición de imágenes basadas en píxeles y gráficos vectoriales. 
+        p.mb-0 Photoshop es un #[em software] de creación de imágenes, diseño gráfico y edición de fotografías desarrollado por la empresa Adobe que proporciona múltiples funciones de edición de imágenes basadas en píxeles y gráficos vectoriales. 
           br
           br
           |Adobe Photoshop se lanzó a finales de los 80. Es el programa más usado en la edición de fotos e imágenes para impresión.
@@ -131,7 +131,7 @@
         img(src="@/assets/template/icono-link.svg")
       .anexo__texto
         p Enlace web. Características. (n.d.). Adobe. Retrieved August 31, 2022
-    p.mb-5(data-aos='fade-right') Enlace web. Si desea ampliar su conocimiento sobre el #[b software] Photoshop, explore el video  recomendado del material complementario: 
+    p.mb-5(data-aos='fade-right') Enlace web. Si desea ampliar su conocimiento sobre el #[em software] Photoshop, explore el video  recomendado del material complementario: 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

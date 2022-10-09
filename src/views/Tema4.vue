@@ -51,7 +51,7 @@
                   | Marcadores de colores con un acabado exacto a los físicos. 
                 li.mb-4
                   i.fas.fa-square.fa-xs(style="color: #ff9500")
-                  | Para la caligrafía o lettering con una pluma de punta de cincel. 
+                  p.mb-0 Para la caligrafía o #[em lettering] con una pluma de punta de cincel. 
 
                 li.mb-4
                   i.fas.fa-square.fa-xs(style="color: #ff9500")

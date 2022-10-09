@@ -71,7 +71,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(style='background-color: #ffefd9')
-          p  Uno de los software CAD más usados en la industria es #[b SolidWorks], un programa líder en diseño mecánico, sin embargo, existen otras opciones como #[b Inventor, Solid Edge, Catia, Onshape o PTC Creo]. 
+          p  Uno de los #[em software] CAD más usados en la industria es #[b SolidWorks], un programa líder en diseño mecánico, sin embargo, existen otras opciones como #[b Inventor, Solid Edge, Catia, Onshape o PTC Creo]. 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3(data-aos="fade-right")
         p El #[em software] SolidWorks es una herramienta paramétrica de diseño de modelado sólido basada en operaciones que aprovecha la facilidad de aprendizaje de la interfaz gráfica de usuario de Windows. Puede crear modelos sólidos en 3D totalmente asociativos con o sin restricciones mientras utiliza, al mismo tiempo, las relaciones automáticas o definidas por el usuario para capturar la intención del diseño.  

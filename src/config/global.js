@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Fundamentos para la realización del boceto digital de un producto',
     descripcionCurso:
-      'El uso de herramientas digitales para la elaboración de planos y bocetos ha contribuido en la disminución de tiempos en el diseño y la fabricación de productos industriales y prototipos.  Existen software CAD especializados para el diseño mecánico y arquitectónico, que además permiten hacer renderizados, análisis de elemento finitos, documentación técnica y materiales, entre muchas más.',
+      'El uso de herramientas digitales para la elaboración de planos y bocetos ha contribuido en la disminución de tiempos en el diseño y la fabricación de productos industriales y prototipos.  Existen <em>software</em> CAD especializados para el diseño mecánico y arquitectónico, que además permiten hacer renderizados, análisis de elemento finitos, documentación técnica y materiales, entre muchas más.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

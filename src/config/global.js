@@ -38,14 +38,20 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: '<em>Software</em> Corel Draw',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Aspectos generales',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Herramientas y uso',
+            hash: 't_1_2',
           },
         ],
       },
@@ -54,22 +60,64 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: '<em>Software</em> Photoshop',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Aspectos generales',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Herramientas y uso',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Herramientas de dibujo 2d y 3d en sistema CAD',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Aspectos generale2',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Uso',
+            hash: 't_3_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Pantallas táctiles',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Aspectos generales',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Herramientas y uso',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -114,32 +162,123 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Photoshop',
+      referencia:
+        'Servicio Nacional de Aprendizaje SENA (11 de Agosto de 2022). Unidad 1.Introducción, área de trabajo, color y selección del área de trabajo',
+      tipo: 'Página web',
+      link: '',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Página web',
+      referencia:
+        'Espinoza, A. (05 de diciembre de 2020). Informe final de trabajo de investigación para obtener el grado académico de bachiller en educación. Universidad nacional de Cajamarca.',
+      tipo: 'Página web',
+      link:
+        'https://repositorio.unc.edu.pe/bitstream/handle/20.500.14074/4019/T016_%2046695057_B.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      tema: 'Pantallas táctiles',
+      referencia:
+        'Espeso, P. (12 de agosto de 2022). Los 6 mejores lápices digitales para dibujar en tabletas. Educación tres punto cero. https://www.educaciontrespuntocero.com/noticias/6-lapices-dibujar-tabletas/',
+      tipo: 'Página web',
+      link:
+        'https://www.educaciontrespuntocero.com/noticias/6-lapices-dibujar-tabletas/',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Caja de herramientas',
+      significado:
+        'conjunto de herramientas que ofrecen los programas informáticos para realizar diferentes tareas.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Corel Draw:',
+      significado:
+        'programa informático de dibujo que facilita la creación de diseños profesionales desde simples logos de empresas hasta grandes y sorprendentes ilustraciones a nivel técnico.      ',
+    },
+    {
+      termino: 'Digital',
+      significado:
+        'dispositivo o sistema que crea, presenta, transporta o almacena información mediante la combinación de bits.',
+    },
+    {
+      termino: 'Diseño',
+      significado:
+        'actividad y proceso mediante el cual se crean ideas, proyectos y objetos con características de utilidad y estética.      ',
+    },
+    {
+      termino: 'Formato',
+      significado:
+        'el formato y la extensión de un archivo significan el tipo de archivo en el que se almacena y encripta la información.',
+    },
+    {
+      termino: 'Menú:',
+      significado:
+        'Conjunto de opciones y funciones de un programa que se muestran en pantalla.',
+    },
+    {
+      termino: 'Pantallas táctiles',
+      significado:
+        'Recurso tecnológico intuitivo y rápido para hacer bocetos de objetos industriales debido a su versatilidad en técnicas y colores. ',
+    },
+    {
+      termino: '<em>Software</em>',
+      significado:
+        'programas informáticos que ejecutan determinadas tareas en un computador.',
+    },
+    {
+      termino: 'Táctil',
+      significado: 'que se puede percibir por medio del tacto.',
+    },
+    {
+      termino: 'Vectorial',
+      significado:
+        'imagen digital formada por objetos geométricos dependientes, con características de forma y posición.      ',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Adobe. (2022) Explora las funciones. Recuperado el 2 de septiembre 2022. ',
+      link:
+        'https://www.adobe.com/la/products/photoshop-elements/features.html',
+    },
+    {
+      referencia: 'Adobe Photoshop Classroom in a Book (2022). Adobe.      ',
       link: '',
+    },
+    {
+      referencia:
+        'Adobe. Ayuda de Adobe Illustrator ® CC. Recuperado el 31 de agosto de 2022. ',
+      link:
+        'https://www.onlinecomputer.com.co/articulos/activos/archivos/Adobe_Illustrator_-_Manual_del_Usuario.pdf',
+    },
+    {
+      referencia:
+        'Almattar, T. (2022). Learn SOLIDWORKS: Get up to speed with key concepts and tools to become an accomplished SOLIDWORKS Associate and Professional, 2nd Edition. Packt Publishing.      ',
+      link: '',
+    },
+    {
+      referencia:
+        'Área de formación en línea y competencia digital educativa del INTEF. (2022). Diseño 2D y 3D.',
+      link: 'https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES',
+    },
+    {
+      referencia: 'Aula clic (2022).  CorelDraw X7 (s.f.) ',
+      link: 'https://www.aulaclic.es/coreldraw-x7/',
+    },
+    {
+      referencia: 'Aula clic (2022).  Photoshop CC (s.f.) ',
+      link: 'https://www.aulaclic.es/photoshop-cs6/',
+    },
+    {
+      referencia:
+        'Diseñando en 3D con SolidWorks . Blogspot.com. Recuperado el 1 de septiembre de 2022. ',
+      link: 'https://disenandoen3d.blogspot.com/2012/01/que-es-solidworks.html',
+    },
+    {
+      referencia: 'S. (2022,). Qué es SolidWorks? Disenandoen3d. ',
+      link: 'https://disenandoen3d.blogspot.com/2012/01/que-es-solidworks.html',
     },
   ],
   creditos: {

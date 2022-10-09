@@ -166,7 +166,8 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje SENA (11 de Agosto de 2022). Unidad 1.Introducción, área de trabajo, color y selección del área de trabajo',
       tipo: 'Página web',
-      link: '',
+      link:
+        'http://fisica.ru/dfmg/teacher/archivos/Guia_de_aprendizaje_unidad_1.pdf',
     },
     {
       tema: 'Página web',
@@ -192,7 +193,7 @@ export default {
         'conjunto de herramientas que ofrecen los programas informáticos para realizar diferentes tareas.',
     },
     {
-      termino: 'Corel Draw:',
+      termino: 'Corel Draw',
       significado:
         'programa informático de dibujo que facilita la creación de diseños profesionales desde simples logos de empresas hasta grandes y sorprendentes ilustraciones a nivel técnico.      ',
     },
@@ -212,7 +213,7 @@ export default {
         'el formato y la extensión de un archivo significan el tipo de archivo en el que se almacena y encripta la información.',
     },
     {
-      termino: 'Menú:',
+      termino: 'Menú',
       significado:
         'Conjunto de opciones y funciones de un programa que se muestran en pantalla.',
     },

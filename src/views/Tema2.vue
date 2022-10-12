@@ -131,7 +131,7 @@
         img(src="@/assets/template/icono-link.svg")
       .anexo__texto
         p Enlace web. Características. (n.d.). Adobe. Retrieved August 31, 2022
-    p.mb-5(data-aos='fade-right') Enlace web. Si desea ampliar su conocimiento sobre el #[b software] Photoshop, explore el video  recomendado del material complementario: 
+    p.mb-5(data-aos='fade-right') Enlace web. Si desea ampliar su conocimiento sobre el #[em software] Photoshop, explore el video  recomendado del material complementario: 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

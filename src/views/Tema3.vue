@@ -123,28 +123,44 @@
       .col-lg-5.col-8.mb-lg-0.mb-3(data-aos='fade-right'): img(src='@/assets/curso/temas/tema3/16.png', alt='')
       .col-lg-7(data-aos="fade-left") 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Beneficio 1").ps-5
-            p Ahorro de tiempo en diseño de productos. 
-          div(titulo="Beneficio 2").ps-5
-            p Precisión en las dimensiones, puesto que estas se adaptan según las modificaciones de escala y el diseño paramétrico. 
-          div(titulo="Beneficio 3").ps-5
-            p Posibilidad de seleccionar y modificar diferentes materiales según las exigencias del proyecto, así como el presupuesto y lista de materiales para la fabricación. 
-          div(titulo="Beneficio 4").ps-5
-            p Una amplia biblioteca con formas que ayudan al diseño y otras con miles de piezas mecánicas normalizadas con diferentes marcas.  
-          div(titulo="Beneficio 5").ps-5
-            p Diversas texturas con diferentes opciones de sombras, colores y luces. 
-          div(titulo="Beneficio 6").ps-5
-            p Visualización de objetos desde todos los ángulos posibles. 
-          div(titulo="Beneficio 7").ps-5
-            p Cálculos precisos y la posibilidad de estimar los costos de fabricación. 
-          div(titulo="Beneficio 8").ps-5
-            p Gestión del ciclo de vida del producto. 
-          div(titulo="Beneficio 9").ps-5
-            p Optimización del flujo de trabajo. 
-          div(titulo="Beneficio 10").ps-5
-            p Gestión de montajes complejos con mayor facilidad que en la vida real. 
-  
-
+          div(titulo="Nuevo archivo").ps-5
+            ul.lista-ul--color
+              li
+                i.fas.fa-square.cab
+                | Ahorro de tiempo en diseño de productos.
+              li
+                i.fas.fa-square.cab
+                | Posibilidad de seleccionar y modificar diferentes materiales según las exigencias del proyecto, así como el presupuesto y lista de materiales para la fabricación.
+              li
+                i.fas.fa-square.cab
+                | Una amplia biblioteca con formas que ayudan al diseño y otras con miles de piezas mecánicas normalizadas con diferentes marcas.
+          div(titulo="Precisión").ps-5
+            ul.lista-ul--color
+              li
+                i.fas.fa-square.cab
+                | Precisión en las dimensiones, puesto que estas se adaptan según las modificaciones de escala y el diseño paramétrico.
+              li
+                i.fas.fa-square.cab
+                | Cálculos precisos y la posibilidad de estimar los costos de fabricación.
+          div(titulo="Visualización").ps-5
+            ul.lista-ul--color
+              li
+                i.fas.fa-square.cab
+                | Diversas texturas con diferentes opciones de sombras, colores y luces.
+              li
+                i.fas.fa-square.cab
+                | Visualización de objetos desde todos los ángulos posibles.
+          div(titulo="Gestión y optimización").ps-5
+            ul.lista-ul--color
+              li
+                i.fas.fa-square.cab
+                | Gestión del ciclo de vida del producto.
+              li
+                i.fas.fa-square.cab
+                | Optimización del flujo de trabajo.
+              li
+                i.fas.fa-square.cab
+                | Gestión de montajes complejos con mayor facilidad que en la vida real.
 
 </template>
 

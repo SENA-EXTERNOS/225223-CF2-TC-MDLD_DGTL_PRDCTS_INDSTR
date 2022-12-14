@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
+          h2 Fundamentos para la realización del boceto digital de un producto
         p.mb-4 Apreciado participante, a continuación, encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente módulo. Relacione los conceptos del dibujo con su correspondiente definición, de acuerdo a lo aprendido al realizar un boceto.  
           br
           br

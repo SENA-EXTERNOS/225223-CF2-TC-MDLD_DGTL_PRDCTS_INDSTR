@@ -124,17 +124,10 @@
             | Con el tiempo esta barra ha crecido dando más herramientas para la edición y el post-procesamiento de imágenes. 
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/6.png', alt='')
 
-
-    //todo Agregar el link 
-    a.anexo.mb-4.mb-lg-5.d-inline-block(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
-      .anexo__icono
-        img(src="@/assets/template/icono-link.svg")
-      .anexo__texto
-        p Enlace web. Características. (n.d.). Adobe. Retrieved August 31, 2022
-    p.mb-5(data-aos='fade-right') Enlace web. Si desea ampliar su conocimiento sobre el #[em software] Photoshop, explore el video  recomendado del material complementario: 
+    p.mb-5(data-aos='fade-right') Si desea ampliar su conocimiento sobre el #[em software] Photoshop, explore el video  recomendado del material complementario: 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4nH4L0G0ncA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 

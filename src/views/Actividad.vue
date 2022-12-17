@@ -11,10 +11,8 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Fundamentos para la realización del boceto digital de un producto
-        p.mb-4 Apreciado participante, a continuación, encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente módulo. Relacione los conceptos del dibujo con su correspondiente definición, de acuerdo a lo aprendido al realizar un boceto.  
-          br
-          br
-          |¡Adelante! 
+        p Apreciado aprendiz, el objetivo de esta actividad es asociar las herramientas disponibles para la realización del boceto digital de un producto, vistas en este componente, a su definición correspondiente.
+        p Arrastre la palabra que considere correcta como respuesta a la descripción dada, de esta forma puede repasar los temas que se deben tener en cuenta para realizar un boceto.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

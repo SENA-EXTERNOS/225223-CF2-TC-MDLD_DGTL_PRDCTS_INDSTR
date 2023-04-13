@@ -162,14 +162,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Photoshop',
-      referencia:
-        'Servicio Nacional de Aprendizaje SENA (11 de Agosto de 2022). Unidad 1.Introducción, área de trabajo, color y selección del área de trabajo',
-      tipo: 'Página web',
-      link:
-        'http://fisica.ru/dfmg/teacher/archivos/Guia_de_aprendizaje_unidad_1.pdf',
-    },
-    {
       tema: 'Página web',
       referencia:
         'Espinoza, A. (05 de diciembre de 2020). Informe final de trabajo de investigación para obtener el grado académico de bachiller en educación. Universidad nacional de Cajamarca.',
@@ -182,8 +174,7 @@ export default {
       referencia:
         'Espeso, P. (12 de agosto de 2022). Los 6 mejores lápices digitales para dibujar en tabletas. Educación tres punto cero. https://www.educaciontrespuntocero.com/noticias/6-lapices-dibujar-tabletas/',
       tipo: 'Página web',
-      link:
-        'https://www.educaciontrespuntocero.com/noticias/6-lapices-dibujar-tabletas/',
+      descarga: 'downloads/T016_46695057_B.pdf',
     },
   ],
   glosario: [

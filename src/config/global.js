@@ -174,7 +174,8 @@ export default {
       referencia:
         'Espeso, P. (12 de agosto de 2022). Los 6 mejores lápices digitales para dibujar en tabletas. Educación tres punto cero. https://www.educaciontrespuntocero.com/noticias/6-lapices-dibujar-tabletas/',
       tipo: 'Página web',
-      descarga: 'downloads/T016_46695057_B.pdf',
+      link:
+        'https://www.educaciontrespuntocero.com/noticias/6-lapices-dibujar-tabletas/',
     },
   ],
   glosario: [

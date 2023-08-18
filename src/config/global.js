@@ -254,7 +254,8 @@ export default {
     {
       referencia:
         'Área de formación en línea y competencia digital educativa del INTEF. (2022). Diseño 2D y 3D.',
-      link: 'https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES',
+      link:
+        'https://formacion.intef.es/mod/book/view.php?id=2626&chapterid=2426',
     },
     {
       referencia: 'Aula clic (2022).  CorelDraw X7 (s.f.) ',
@@ -267,10 +268,6 @@ export default {
     {
       referencia:
         'Diseñando en 3D con SolidWorks . Blogspot.com. Recuperado el 1 de septiembre de 2022. ',
-      link: 'https://disenandoen3d.blogspot.com/2012/01/que-es-solidworks.html',
-    },
-    {
-      referencia: 'S. (2022,). Qué es SolidWorks? Disenandoen3d. ',
       link: 'https://disenandoen3d.blogspot.com/2012/01/que-es-solidworks.html',
     },
   ],

@@ -42,7 +42,7 @@
           div(titulo="Selección de personas con un solo clic ").ps-5
             p De forma automática, selecciona la persona de su foto con un solo clic. Luego, permite realizar ediciones aisladas sobre la persona o el fondo (Adobe, 2022) 
           div(titulo="Efectos y filtros ").ps-5
-            p Permite eligir entre cinco aspectos inteligentes que se aplican automáticamente a fotos en función del tema, el color y la iluminación. (Adobe, 2022) 
+            p Permite elegir entre cinco aspectos inteligentes que se aplican automáticamente a fotos en función del tema, el color y la iluminación. (Adobe, 2022) 
           div(titulo="Estabilización del movimiento de la cámara").ps-5
             p Corrige el desenfoque de forma rápida, fácil y automática. (Adobe, 2022)  
     Separador
@@ -74,11 +74,12 @@
           h3 Pantalla de inicio  
         p.mb-5(data-aos='fade-right') Para acceder a la pantalla de inicio en cualquier momento mientras trabaja en un documento de Photoshop, haga clic en el icono de inicio en la barra de opciones. Para salir de la pantalla de inicio, pulse la tecla Esc.
       .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema2/4.png', alt='')
+    p.mb-5(data-aos='fade-right') A la izquierda de la pantalla de inicio de PhotoShop se muestran las siguientes pestañas y botones: 
     .row.justify-content-center.mb-5
       .col-lg-5.col-8.mb-lg-0.mb-3(data-aos='fade-right'): img(src='@/assets/curso/temas/tema2/5.png', alt='')
       .col-lg-7(data-aos="fade-left") 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Nuevo archivo ").ps-5
+          div(titulo="Flujo de trabajo").ps-5
             p Haga clic en este botón para crear un nuevo documento. Podrá crear un documento si selecciona una de las numerosas plantillas y ajustes preestablecidos disponibles. 
           div(titulo="Abrir").ps-5
             p Haga clic en este botón para abrir un documento existente. 

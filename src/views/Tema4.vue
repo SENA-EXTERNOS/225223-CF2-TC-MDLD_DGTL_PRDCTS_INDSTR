@@ -25,7 +25,7 @@
     .row.justify-content-center.mb-5
       .col-lg-5.col-8.mb-lg-0.mb-3(data-aos='fade-right'): img(src='@/assets/curso/temas/tema4/2.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Este tipo de pantallas cuenta con diferentes características y herramientas como lápices, pinceles o borradores de diferentes tamaños de acuerdo a la necesidad gráfica del  usuario, además, algunas incluyen un lápiz electrónico que simula el uso de uno real. Al momento de interactuar con estos dispositivos es necesario tener en cuenta la marca, el modelo y la aplicación o software instalado, pues de estas características dependerán las funcionalidades al desarrollar los trabajos( bocetos, dibujos) y su posterior impresión. 
+        p Este tipo de pantallas cuenta con diferentes características y herramientas como lápices, pinceles o borradores de diferentes tamaños de acuerdo a la necesidad gráfica del  usuario, además, algunas incluyen un lápiz electrónico que simula el uso de uno real. Al momento de interactuar con estos dispositivos es necesario tener en cuenta la marca, el modelo y la aplicación o software instalado, pues de estas características dependerán las funcionalidades al desarrollar los trabajos (bocetos, dibujos) y su posterior impresión. 
     .titulo-dot.d-flex.mb-3
       i.fas.fa-circle.fa-xs(style='color:#ff9a0c').me-3
       h3 Pantallas táctiles

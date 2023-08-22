@@ -79,7 +79,7 @@
       .col-lg-5.col-8.mb-lg-0.mb-3(data-aos='fade-right'): img(src='@/assets/curso/temas/tema2/5.png', alt='')
       .col-lg-7(data-aos="fade-left") 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Flujo de trabajo").ps-5
+          div(titulo="Nuevo Archivo").ps-5
             p Haga clic en este botón para crear un nuevo documento. Podrá crear un documento si selecciona una de las numerosas plantillas y ajustes preestablecidos disponibles. 
           div(titulo="Abrir").ps-5
             p Haga clic en este botón para abrir un documento existente. 

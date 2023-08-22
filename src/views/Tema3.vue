@@ -123,7 +123,7 @@
       .col-lg-5.col-8.mb-lg-0.mb-3(data-aos='fade-right'): img(src='@/assets/curso/temas/tema3/16.png', alt='')
       .col-lg-7(data-aos="fade-left") 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Nuevo archivo").ps-5
+          div(titulo="Flujo de trabajo").ps-5
             ul.lista-ul--color
               li
                 i.fas.fa-square.cab

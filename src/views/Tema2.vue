@@ -30,7 +30,7 @@
           div(titulo="Deformar fotos para adaptarlas a cualquier forma ").ps-5
             p Coloca una foto dentro de otra envolviéndola alrededor de un objeto como, por ejemplo, una taza de café, encajándola dentro de formas como los lentes de sol de un sujeto. (Adobe, 2022) 
           div(titulo="Agregar movimiento a las fotos ").ps-5
-            p Transforma con un solo clic sus instantáneas favoritas en fotos en movimiento: MP4 y GIF animados con movimiento de cámara en 2D y 3D. Es sencillo y perfecto para compartirlas en las redes sociales. (Adobe, 2022) 
+            p Transforme con un solo clic sus instantáneas favoritas en fotos en movimiento: MP4 y GIF animados con movimiento de cámara en 2D y 3D. Es sencillo y perfecto para compartirlas en las redes sociales. (Adobe, 2022) 
           div(titulo="Ajustar la inclinación de la cara ").ps-5
             p Hace que todas las personas de una foto miren en la dirección correcta ajustando de forma automática la posición de sus caras. (Adobe, 2022) 
           div(titulo="Ajuste de características faciales ").ps-5

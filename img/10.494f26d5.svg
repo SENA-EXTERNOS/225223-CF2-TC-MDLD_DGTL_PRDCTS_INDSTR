@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295" height="295.5" viewBox="0 0 295 295.5">
+  <g id="_10" data-name="10" transform="translate(-390 -3966)">
+    <g id="Grupo_81369" data-name="Grupo 81369" transform="translate(413 3989.07)">
+      <g id="Grupo_81366" data-name="Grupo 81366">
+        <rect id="Rectángulo_34192" data-name="Rectángulo 34192" width="230.725" height="230.725" rx="11.5" fill="#dee4f0" opacity="0.95" style="isolation: isolate"/>
+        <path id="Trazado_114203" data-name="Trazado 114203" d="M425.266,1409.562H387.648l37.618-37.618Z" transform="translate(-213.664 -1197.019)" fill="#727997"/>
+      </g>
+      <g id="Grupo_81368" data-name="Grupo 81368" transform="translate(60.755 47.01)">
+        <path id="Trazado_114204" data-name="Trazado 114204" d="M344.717,1367.085c-4.421,6.812-1.793,16.447,4.013,22.122s13.966,8.188,21.921,9.823c3.147.647,6.611,1.141,9.415-.427,6.255-3.5,3.952-12.775,4.77-19.893,1.61-14.027,18.8-21.758,32.565-18.616s24.494,13.613,34.313,23.755" transform="translate(-342.499 -1262.943)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <g id="Grupo_81367" data-name="Grupo 81367" transform="translate(3.134)">
+          <path id="Trazado_114205" data-name="Trazado 114205" d="M412.775,1346.155l-25.217,38.537-25.289,1.446-13.248-26.662,25.217-38.538" transform="translate(-335.799 -1320.938)" fill="#a09f9f" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_114206" data-name="Trazado 114206" d="M356.97,1336.3l-13.222,62.262,51.759-37.046-17.476-4.026-4.1-19.617Z" transform="translate(-343.749 -1297.767)" fill="#efefef" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Trazado_114207" data-name="Trazado 114207" d="M343.749,1375.724l5.154-24.269,9.394,2.036.284,4.42,7.173,2.064Z" transform="translate(-343.749 -1274.924)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_81427" data-name="Grupo 81427" transform="translate(0 2304)">
+      <circle id="Elipse_4857" data-name="Elipse 4857" cx="42.5" cy="42.5" r="42.5" transform="translate(685 1747) rotate(180)" fill="#ff9500" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Elipse_4858" data-name="Elipse 4858" cx="63.75" cy="63.75" r="63.75" transform="translate(517.5 1957.5) rotate(180)" fill="#0ca4ca" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

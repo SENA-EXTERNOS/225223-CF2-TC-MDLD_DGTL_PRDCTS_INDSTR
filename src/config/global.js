@@ -44,7 +44,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Aspectos generales',
+            titulo: 'Aspectos generales del <em>Software</em>',
             hash: 't_1_1',
           },
           {
@@ -66,7 +66,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Aspectos generales',
+            titulo: 'Aspectos generales del <em>Software</em>',
             hash: 't_2_1',
           },
           {
@@ -87,7 +87,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Aspectos generale2',
+            titulo: 'Aspectos generales',
             hash: 't_3_1',
           },
           {
@@ -108,7 +108,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Aspectos generales',
+            titulo: 'Aspectos generales de las pantallas',
             hash: 't_4_1',
           },
           {

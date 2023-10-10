@@ -78,7 +78,7 @@
             div(x="40%" y="10%" tooltip="" numero="2").d-flex.align-items-center
               p.m-auto La barra de herramientas se encuentra de manera horizontal en la parte superior, donde podrá tener un acceso directo a las opciones ‘Deshacer/Rehacer’, #[em ‘Zoom’], ‘Girar, ‘Seleccionar’, ‘Cortar’, ‘Transformación rápida’, ‘Terraplén de Inundación’, ‘Añadir capa de texto’, ‘Elipse’, ‘Regla curva y francesa’, ‘Guías de Perspectiva’, ‘Simetría’, ‘Movimiento constante’, ‘Movimiento predictivo’ y ‘Dibujar estilo’. 
             div(x="73%" y="70%" tooltip="" numero="3")
-              p La anterior herramienta suele confundirse con la de ‘disco de color’, sin embargo, esta última ayuda a ahorrar espacio en la pantalla, similar al ‘Cepillo de disco’, que al seleccionarlo arroja una pequeña con una completa paleta de colores. 
+              p La anterior herramienta suele confundirse con la de ‘disco de color’, sin embargo, esta última ayuda a ahorrar espacio en la pantalla, similar al ‘Cepillo de disco’, que al seleccionarlo arroja una pequeña paleta de colores. 
                 br
                 br
                 |Las imágenes utilizadas son de la aplicación Sketchbook que convierte cualquier dispositivo Android en una pantalla táctil de dibujo.
